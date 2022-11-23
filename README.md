@@ -4,6 +4,8 @@
   
 
 ### <div align="center">My name is Rafael, a 25 yo mexican 🇲🇽 dev, mainly interested in desktop, mobile apps and web development. I'm also a part time teacher at a university. 👨🏻‍🏫</div>  
+
+<br/>
   
 
 - 🔭 I’m currently working on [Braille With Tangible Objects](https://github.com/r-cosiocastro/Proyecto_Objetos-Tangibles)  
