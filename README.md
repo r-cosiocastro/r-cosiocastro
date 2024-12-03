@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">My name is Rafael, a 25 yo mexican 🇲🇽 dev, mainly interested in desktop, mobile apps and web development. I'm also a part time teacher at a university. 👨🏻‍🏫</div>  
+### <div align="center">My name is Rafael, a <span id="age"></span> yo mexican 🇲🇽 dev, mainly interested in desktop, mobile apps and web development. I'm also a part time teacher at a university. 👨🏻‍🏫</div>  
 
 <br/>
   
@@ -121,3 +121,18 @@
                 />
             </a></div>
 <br />
+
+<script>
+function updateAge() {
+    const today = new Date();
+    const birth = new Date("1997-10-24");
+    let age = today.getFullYear() - birth.getFullYear();
+    const month = today.getMonth() - birth.getMonth();
+    if (month < 0 || (month === 0 && today.getDate() < nac.getDate())) {
+        age--;
+    }
+    return age;
+}
+
+document.getElementById("edad").textContent = updateAge();
+</script>
