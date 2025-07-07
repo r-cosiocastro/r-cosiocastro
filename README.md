@@ -7,7 +7,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [Braille With Tangible Objects](https://github.com/r-cosiocastro/Proyecto_Objetos-Tangibles)  
+- 🔭 I’m currently working on [GPS-Livestock](https://github.com/r-cosiocastro/Proyecto_Objetos-Tangibles](https://github.com/r-cosiocastro/GPS-Livestock))  
   
 
 - 🌱 I’m currently learning Python and Flutter  
